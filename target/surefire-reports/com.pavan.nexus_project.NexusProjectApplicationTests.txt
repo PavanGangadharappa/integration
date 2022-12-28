@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.pavan.nexus_project.NexusProjectApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.416 s - in com.pavan.nexus_project.NexusProjectApplicationTests
