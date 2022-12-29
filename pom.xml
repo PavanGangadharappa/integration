@@ -42,12 +42,12 @@
 	</build>
 	<distributionManagement>
 	<snapshotRepository>
-		<id>pavangangandhar</id>
-		<url>http://localhost:8081/repository/maven-snapshots/</url>
+		<id>nexus-release-repo</id>
+		<url>http://3.110.90.35:8081/repository/maven-snapshots/</url>
 	</snapshotRepository>
 	<repository>
-		<id>pavangangandhar</id>
-		<url>http://localhost:8081/repository/maven-releases/</url>
+		<id>nexus-release-repo</id>
+		<url>http://3.110.90.35:8081/repository/maven-releases/</url>
 	</repository>
 	</distributionManagement>
 
