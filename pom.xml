@@ -15,7 +15,7 @@
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>
-		<sonar.host.url>http://13.233.158.38:9000/</sonar.host.url>
+		<sonar.host.url>http://52.66.64.109:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>Pavang07@</sonar.password>
 	</properties>
@@ -43,11 +43,11 @@
 	<distributionManagement>
 	<snapshotRepository>
 		<id>nexus-release-repo</id>
-		<url>http://3.110.90.35:8081/repository/maven-snapshots/</url>
+		<url>http://43.204.130.108:8081/repository/maven-snapshots/</url>
 	</snapshotRepository>
 	<repository>
 		<id>nexus-release-repo</id>
-		<url>http://3.110.90.35:8081/repository/maven-releases/</url>
+		<url>http://43.204.130.108:8081/repository/maven-releases/</url>
 	</repository>
 	</distributionManagement>
 
