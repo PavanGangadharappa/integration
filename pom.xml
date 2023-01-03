@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.pavan</groupId>
 	<artifactId>nexus_project</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.1-SNAPSHOT	</version>
 	<name>nexus_project</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
